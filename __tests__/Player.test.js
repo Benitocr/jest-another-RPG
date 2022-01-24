@@ -1,7 +1,7 @@
 const Player = require('../lib/Player.js');
 const Potion = require('../lib/Potion.js');
 
-//Me quede en 10.2.7 abajo donde update the player() Constructor.....
+
 
 jest.mock('../lib/Potion.js');
 // console.log(new Potion());
